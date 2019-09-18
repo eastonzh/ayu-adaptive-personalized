@@ -2,16 +2,16 @@
   "name": "ayu-adaptive",
   "displayName": "Ayu Adaptive",
   "description": "A modification of Ayu theme with Atom One, Adapta GTK and macOS Mojave color palette.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "publisher": "ccy",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/libcy/ayu-adaptive"
+    "url": "https://github.com/icui/ayu-adaptive"
   },
   "bugs": {
-    "url": "https://github.com/libcy/ayu-adaptive/issues",
-    "email": "teabyii@gmail.com"
+    "url": "https://github.com/icui/ayu-adaptive/issues",
+    "email": "libccy@gmail.com"
   },
   "engines": {
     "vscode": "^1.13.0"
@@ -26,7 +26,7 @@
     "adapta",
     "mojave"
   ],
-  "homepage": "https://github.com/libcy/ayu-adaptive",
+  "homepage": "https://github.com/icui/ayu-adaptive",
   "icon": "assets/logo.png",
   "contributes": {
     "themes": [
