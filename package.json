@@ -2,7 +2,7 @@
   "name": "ayu-adaptive",
   "displayName": "Ayu Adaptive",
   "description": "A modification of Ayu theme with Atom One, Adapta GTK and macOS Mojave color palette.",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "publisher": "ccy",
   "license": "MIT",
   "repository": {
@@ -53,6 +53,6 @@
   },
   "devDependencies": {
     "ayu": "4.0.0",
-    "vsce": "^1.22.0"
+    "vsce": "^1.73.0"
   }
 }

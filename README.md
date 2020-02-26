@@ -5,7 +5,7 @@ A modification of [vscode-ayu](https://marketplace.visualstudio.com/items?itemNa
 ## Install
 
 ```shell
-ext install ayu-one
+ext install ayu-adaptive
 ```
 
 Then go to `Preferences > Color Theme > Ayu One`.

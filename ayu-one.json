@@ -42,6 +42,7 @@
 		"selection.background": "#343f4cfd",
 		"editor.background": "#282C34",
 		"editor.foreground": "#d9d7ce",
+		"editor.foldBackground": "#0000",
 		"editor.selectionBackground": "#343f4c",
 		"editor.findMatchBackground": "#ffcc6633",
 		"editor.findMatchHighlightBackground": "#ffcc6633",
