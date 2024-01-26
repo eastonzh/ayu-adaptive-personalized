@@ -23,7 +23,7 @@
 		"list.focusAndSelectionForeground": "#d9d7ce",
 		"list.activeSelectionBackground": "#4678CC",
 		"list.activeSelectionForeground": "#d9d7ce",
-		"list.inactiveSelectionBackground": "#323334",
+		"list.inactiveSelectionBackground": "#ffcc66AA",
 		"list.inactiveSelectionForeground": "#d9d7ce",
 		"list.focusBackground": "#404041",
 		"list.focusForeground": "#d9d7ce",
@@ -123,7 +123,7 @@
 		"activityBarBadge.foreground": "#fff",
 		"sideBar.background": "#323334",
 		"sideBarTitle.foreground": "#bababb",
-		"sideBarSectionHeader.background": "#57575950",
+		"sideBarSectionHeader.background": "#575759A0",
 		"sideBarSectionHeader.foreground": "#bababb",
 		"sideBar.border": "#181A1F",
 		"titleBar.activeForeground": "#bababb",
@@ -164,7 +164,6 @@
 		"terminal.ansiBrightMagenta": "#ff77ff",
 		"terminal.ansiBrightCyan": "#a6fde1",
 		"terminal.ansiBrightWhite": "#ffffff",
-		"sideBarSectionHeader.border": "#2f2f2f",
 		"editorIndentGuide.activeBackground": "#dfe9f20a"
 	},
 	"tokenColors": [
