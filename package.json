@@ -1,17 +1,17 @@
 {
-  "name": "ayu-adaptive",
-  "displayName": "Ayu Adaptive",
+  "name": "ayu-adaptive-personalized",
+  "displayName": "Ayu Adaptive Personalized",
   "description": "A modification of Ayu theme with Atom One, Adapta GTK and macOS Mojave color palette.",
-  "version": "0.1.6",
-  "publisher": "ccy",
+  "version": "0.0.1",
+  "publisher": "ezh",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/icui/ayu-adaptive"
+    "url": "https://github.com/weilanzh/ayu-adaptive-personalized"
   },
   "bugs": {
-    "url": "https://github.com/icui/ayu-adaptive/issues",
-    "email": "libccy@gmail.com"
+    "url": "https://github.com/weilanzh/ayu-adaptive-personalized/issues",
+    "email": "dhzhme@gmail.com"
   },
   "engines": {
     "vscode": "^1.13.0"
@@ -26,22 +26,22 @@
     "adapta",
     "mojave"
   ],
-  "homepage": "https://github.com/icui/ayu-adaptive",
+  "homepage": "https://github.com/weilanzh/ayu-adaptive-personalized",
   "icon": "assets/logo.png",
   "contributes": {
     "themes": [
       {
-        "label": "Ayu One",
+        "label": "Ayu One Personalized",
         "uiTheme": "vs-dark",
         "path": "./ayu-one.json"
       },
       {
-        "label": "Ayu Adapta",
+        "label": "Ayu Adapta Personalized",
         "uiTheme": "vs-dark",
         "path": "./ayu-adapta.json"
       },
       {
-        "label": "Ayu Mojave",
+        "label": "Ayu Mojave Personalized",
         "uiTheme": "vs-dark",
         "path": "./ayu-mojave.json"
       }
