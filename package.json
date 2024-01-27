@@ -49,7 +49,8 @@
   },
   "scripts": {
     "build": "node ./build.js",
-    "package": "vsce package"
+    "package": "vsce package",
+    "g": "npm run build && npm run package"
   },
   "devDependencies": {
     "ayu": "4.0.0",
