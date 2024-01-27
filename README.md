@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/weilanzh/ayu-adaptive-personalized/master/assets/logo.png">
 
 - A modification of [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) with Atom One, Adapta GTK and macOS Mojave color palette.
-- Form from [Ayu Adaptive](https://marketplace.visualstudio.com/items?itemName=ccy.ayu-adaptive).
+- Fork from [Ayu Adaptive](https://marketplace.visualstudio.com/items?itemName=ccy.ayu-adaptive).
 
 ## Install
 
