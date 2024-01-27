@@ -18,5 +18,5 @@ npm install
 Update themes and Build VSIX package
 
 ```shell
-npm run build && npm run package
+npm run g
 ```

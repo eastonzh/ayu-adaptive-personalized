@@ -1,8 +1,8 @@
 {
   "name": "ayu-adaptive-personalized",
   "displayName": "Ayu Adaptive Personalized",
-  "description": "A modification of Ayu theme with Atom One, Adapta GTK and macOS Mojave color palette.",
-  "version": "0.0.3",
+  "description": "A personalized theme of Ayu and Ayu Adaptive.",
+  "version": "0.0.4",
   "publisher": "ezh",
   "license": "MIT",
   "repository": {
