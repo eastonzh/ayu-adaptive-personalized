@@ -325,7 +325,7 @@ const exportTheme = (name, mod) => {
   theme.colors = themeColors;
   Object.assign(theme.colors, mod);
 
-  fs.writeFileSync(filepath, JSON.stringify(theme, null, '\t'));
+  fs.writeFileSync(filepath, JSON.stringify(theme, null, 2));
   console.log(`Updated ${filepath}`);
 };
 
